@@ -1,16 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Android 从入门当放弃
+email: oaierp@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#url: "http://jiezzzo.github.io" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: 有想法儿总是好的_(:зゝ∠)_
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
+facebook: oaierp
+linkedin: ZhaoJie
+github: jiezzzo
 deviantart: username
 codepen: username
 
