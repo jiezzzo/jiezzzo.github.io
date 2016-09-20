@@ -1,6 +1,9 @@
 ---
+layout: post
 title: 2016-9-21-hello-world
-grammar_cjkRuby: true
+date:   2016-09-21 00:38:01 -0500
+comments: true
+categories: jekyll
 ---
 
 	hello world,hello blog
