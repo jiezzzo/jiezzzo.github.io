@@ -14,6 +14,9 @@ github: jiezzzo
 deviantart: username
 codepen: username
 
+pygments: true
+highlighter: rouge
+
 footer: © Taken theme
 
 # Build settings
@@ -28,6 +31,3 @@ kramdown:
   syntax_highlighter: rouge
   coderay:
     coderay_line_numbers:  nil
-
-pygments: true
-highlighter: rouge
