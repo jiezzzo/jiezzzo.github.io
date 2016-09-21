@@ -30,4 +30,4 @@ kramdown:
     coderay_line_numbers:  nil
 
 pygments: true
-highlighter: rouge
+highlighter: pyments
