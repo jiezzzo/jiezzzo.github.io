@@ -3,6 +3,7 @@ layout: post
 title: 2016-9-21-hello-world
 date:   2016-09-21 00:38:01 -0500
 comments: true
+grammar_cjkRuby: true
 categories: jekyll
 ---
 
