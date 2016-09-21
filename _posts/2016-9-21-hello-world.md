@@ -8,4 +8,13 @@ categories: jekyll
 ---
 
 	hello world,hello blog
-    	感谢githubpages,感谢小书匠
+    感谢githubpages,感谢小书匠
+    
+{% highlight java linenos %}
+   function trigger_alert(){
+  		alert("Lorem Ipsum dolor sit amet");
+}
+trigger_alert();
+{% endhighlight %}
+    
+    
