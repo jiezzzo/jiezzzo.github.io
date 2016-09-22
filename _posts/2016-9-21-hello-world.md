@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-9-21-hello-world
+title: HelloWorld
 date:   2016-09-21 00:38:01 -0500
 comments: true
 grammar_cjkRuby: true
@@ -36,6 +36,6 @@ grammar_align: true
 grammar_tableExtra: true
 ---
 
-欢迎光临 **{jiezzzo'blog}(jiezzzo.github.io)**，
+欢迎光临 **Jiezzzo的个人小站**，
     
     
