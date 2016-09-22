@@ -15,6 +15,7 @@ deviantart: username
 codepen: username
 
 pygments: true
+highlighter:pygments
 
 footer: © Taken theme
 
