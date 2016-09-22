@@ -14,8 +14,8 @@ github: jiezzzo
 deviantart: username
 codepen: username
 
+highlighter: rouge
 pygments: true
-highlighter: rouge/pygments
 
 footer: © Taken theme
 
