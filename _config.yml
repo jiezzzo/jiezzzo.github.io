@@ -1,8 +1,8 @@
 # Site settings
-title: 凉水是个好名字
+title: Flutter 从入门到放弃
 email: oaierp@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://jiezzzo.github.io" # the base hostname & protocol for your site
+baseurl: "http://zqx0000.github.io" # the subpath of your site, e.g. /blog
+#url: "http://zqx0000.github.io" # the base hostname & protocol for your site
 
 # Sidebar settings
 description: 果冻_(:зゝ∠)_
@@ -10,8 +10,8 @@ description: 果冻_(:зゝ∠)_
 # Social icons
 linkedin: 杰-赵-b1b7ba125
 github: jiezzzo
-deviantart: username
-codepen: username
+deviantart: zhaoqx
+codepen: zhaoqx
 
 highlighter: rouge
 pygments: true
